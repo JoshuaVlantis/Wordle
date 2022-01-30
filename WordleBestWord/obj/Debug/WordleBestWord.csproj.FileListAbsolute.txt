@@ -1,0 +1,8 @@
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\bin\Debug\WordleBestWord.exe.config
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\bin\Debug\WordleBestWord.exe
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\bin\Debug\WordleBestWord.pdb
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\obj\Debug\WordleBestWord.csproj.AssemblyReference.cache
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\obj\Debug\WordleBestWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\obj\Debug\WordleBestWord.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\obj\Debug\WordleBestWord.exe
+C:\Users\Joshua\Desktop\WordleBestWord\WordleBestWord\obj\Debug\WordleBestWord.pdb

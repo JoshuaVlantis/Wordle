@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cfb29f1-4cd5-47f7-8fcc-01f3fb384278": {
+      "ProjectGuid": "3cfb29f1-4cd5-47f7-8fcc-01f3fb384278",
+      "DisplayName": "WordleBestWord",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
